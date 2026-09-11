@@ -1,3 +1,10 @@
+*.slnx
+*.filters
+*.vcxproj
+hello_world
+main
+*.exe
+*.out
 # Prerequisites
 *.d
 
